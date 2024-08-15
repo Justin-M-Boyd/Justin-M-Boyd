@@ -3,7 +3,7 @@
 <!--
 **Justin-M-Boyd/Justin-M-Boyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Im just making some changes here as I learn to use GitKracken.
+Hi Im Justin, a LUA scripter, learning C#!
 
 Here are some ideas to get you started:
 
